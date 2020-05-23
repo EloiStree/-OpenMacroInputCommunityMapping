@@ -1,0 +1,1 @@
+In this folder feel free to propose group of unicode sequence by category name.
