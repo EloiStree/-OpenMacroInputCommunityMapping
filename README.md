@@ -7,7 +7,8 @@ All the configuration is based on files structure to be able to be shared easily
 
 This repositroy is my first attempt to make the users of the toolboxes share to other users what they created.
 
-*My aim would be to have three parts:*
+
+**My aim would be to have three parts:**
 
 - Compilation
   - Folder that try to compile the best of the community proposition.
@@ -18,7 +19,7 @@ This repositroy is my first attempt to make the users of the toolboxes share to 
   - Accepted by the team of the target tool
 
 
-*Download/Install:*
+**Download/Install:**
 
 - Java Runtime for Open Macro Input
   - https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime/
