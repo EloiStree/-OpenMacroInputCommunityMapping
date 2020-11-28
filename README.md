@@ -35,3 +35,6 @@ This repositroy is my first attempt to make the users of the toolboxes share to 
   
   GameName/LastName_FirstName/[yourconfigurationfolder]
   GameName/OfficialPseudonyme/[yourconfigurationfolder]
+  
+  -------------
+Share this page: http://eloistree.page.link/omicommunity
