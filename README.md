@@ -24,7 +24,7 @@ This repositroy is my first attempt to make the users of the toolboxes share to 
 - Java Runtime for Open Macro Input
   - https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime/
 - Tutorial & Documentation
-  - https://github.com/EloiStree/OpenMacroInput/releases
+  - https://github.com/EloiStree/OpenMacroInput
 - Download in development version
   - https://eloistree.page.link/omilastbuild
 - Buy stable version
